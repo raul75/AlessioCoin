@@ -3,20 +3,20 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Camorracoin</source>
-        <translation>Über Camorracoin</translation>
+        <source>About AlessioCoin</source>
+        <translation>Über AlessioCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Camorracoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Camorracoin&lt;/b&gt; Version</translation>
+        <source>&lt;b&gt;AlessioCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;AlessioCoin&lt;/b&gt; Version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The BlackCoin developers
-Copyright © 2014 The Camorracoin developers</source>
+Copyright © 2014 The AlessioCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -64,8 +64,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Camorracoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Das sind Ihre Camorracoin Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer sie bezahlt.</translation>
+        <source>These are your AlessioCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Das sind Ihre AlessioCoin Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer sie bezahlt.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -79,7 +79,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Camorracoin address</source>
+        <source>Sign a message to prove you own a AlessioCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -94,7 +94,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Camorracoin address</source>
+        <source>Verify a message to ensure it was signed with a specified AlessioCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -262,7 +262,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-58"/>
-        <source>Camorracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>AlessioCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -376,7 +376,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Camorracoin</source>
+        <source>Show information about AlessioCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -426,12 +426,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Camorracoin address</source>
+        <source>Send coins to a AlessioCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Camorracoin</source>
+        <source>Modify configuration options for AlessioCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -471,7 +471,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-200"/>
-        <source>Camorracoin</source>
+        <source>AlessioCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -481,7 +481,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Camorracoin</source>
+        <source>&amp;About AlessioCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -538,12 +538,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Camorracoin client</source>
+        <source>AlessioCoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Camorracoin network</source>
+        <source>%n active connection(s) to AlessioCoin network</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -657,7 +657,7 @@ Adresse: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Camorracoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid AlessioCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -717,7 +717,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Camorracoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. AlessioCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1037,8 +1037,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Camorracoin address.</source>
-        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige Camorracoin Adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid AlessioCoin address.</source>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige AlessioCoin Adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1056,7 +1056,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Camorracoin-Qt</source>
+        <source>AlessioCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1129,13 +1129,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Camorracoin after logging in to the system.</source>
-        <translation>Automatisch Camorracoin starten beim Einloggen in das System.</translation>
+        <source>Automatically start AlessioCoin after logging in to the system.</source>
+        <translation>Automatisch AlessioCoin starten beim Einloggen in das System.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Camorracoin on system login</source>
-        <translation>&amp;Starte Camorracoin bei Systemstart</translation>
+        <source>&amp;Start AlessioCoin on system login</source>
+        <translation>&amp;Starte AlessioCoin bei Systemstart</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1154,8 +1154,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Camorracoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den Camorracoin client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
+        <source>Automatically open the AlessioCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den AlessioCoin client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1164,7 +1164,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Camorracoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the AlessioCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,7 +1239,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Camorracoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting AlessioCoin.</source>
         <translation>Die Sprache der GUI kann hier verändert werden. Die Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1254,8 +1254,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Camorracoin addresses in the transaction list or not.</source>
-        <translation>Camorracoin Adressen in der Überweisung anzeigen oder nicht.</translation>
+        <source>Whether to show AlessioCoin addresses in the transaction list or not.</source>
+        <translation>AlessioCoin Adressen in der Überweisung anzeigen oder nicht.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1301,7 +1301,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Camorracoin.</source>
+        <source>This setting will take effect after restarting AlessioCoin.</source>
         <translation>Diese Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1320,8 +1320,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Camorracoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem Camorracoin Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AlessioCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem AlessioCoin Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1536,7 +1536,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Camorracoin-Qt help message to get a list with possible Camorracoin command-line options.</source>
+        <source>Show the AlessioCoin-Qt help message to get a list with possible AlessioCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1556,13 +1556,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Camorracoin - Debug window</source>
-        <translation>Camorracoin - Debug Fenster</translation>
+        <source>AlessioCoin - Debug window</source>
+        <translation>AlessioCoin - Debug Fenster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Camorracoin Core</source>
-        <translation>Camorracoin Kern</translation>
+        <source>AlessioCoin Core</source>
+        <translation>AlessioCoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1571,7 +1571,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Camorracoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the AlessioCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1581,7 +1581,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Camorracoin RPC console.</source>
+        <source>Welcome to the AlessioCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1740,7 +1740,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Camorracoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
+        <source>Enter a AlessioCoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1840,7 +1840,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Camorracoin address</source>
+        <source>WARNING: Invalid AlessioCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1914,7 +1914,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Camorracoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
+        <source>Enter a AlessioCoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1975,8 +1975,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Camorracoin address</source>
-        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser Camorracoin Adresse bist.</translation>
+        <source>Sign the message to prove you own this AlessioCoin address</source>
+        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser AlessioCoin Adresse bist.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2007,7 +2007,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Camorracoin address</source>
+        <source>Verify the message to ensure it was signed with the specified AlessioCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2018,7 +2018,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Camorracoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
+        <source>Enter a AlessioCoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2028,8 +2028,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Camorracoin signature</source>
-        <translation>Camorracoin Signatur eingeben</translation>
+        <source>Enter AlessioCoin signature</source>
+        <translation>AlessioCoin Signatur eingeben</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2599,7 +2599,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Camorracoin version</source>
+        <source>AlessioCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2609,8 +2609,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or camorracoind</source>
-        <translation>Kommando versenden an -server oder camorracoind </translation>
+        <source>Send command to -server or AlessioCoind</source>
+        <translation>Kommando versenden an -server oder AlessioCoind </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2629,13 +2629,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: camorracoin.conf)</source>
-        <translation>Konfigurationsdatei angeben (Standard: camorracoin.conf)</translation>
+        <source>Specify configuration file (default: AlessioCoin.conf)</source>
+        <translation>Konfigurationsdatei angeben (Standard: AlessioCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: camorracoind.pid)</source>
-        <translation>PID Datei angeben (Standard: camorracoind.pid)</translation>
+        <source>Specify pid file (default: AlessioCoind.pid)</source>
+        <translation>PID Datei angeben (Standard: AlessioCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2784,8 +2784,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Camorracoin will not work properly.</source>
-        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist Camorracoin nicht richtig funktionieren.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AlessioCoin will not work properly.</source>
+        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist AlessioCoin nicht richtig funktionieren.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2973,13 +2973,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=camorracoinrpc
+rpcuser=AlessioCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;AlessioCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3105,13 +3105,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Camorracoin is probably already running.</source>
-        <translation>Kann das Verzeichniss nicht einbinden %s. Camorracoin Brieftasche läuft wahrscheinlich bereits.</translation>
+        <source>Cannot obtain a lock on data directory %s.  AlessioCoin is probably already running.</source>
+        <translation>Kann das Verzeichniss nicht einbinden %s. AlessioCoin Brieftasche läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Camorracoin</source>
-        <translation>Camorracoin</translation>
+        <source>AlessioCoin</source>
+        <translation>AlessioCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3145,13 +3145,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Camorracoin</source>
-        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der Camorracoin Brieftasche.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AlessioCoin</source>
+        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der AlessioCoin Brieftasche.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Camorracoin to complete</source>
-        <translation>Brieftasche muss neu geschrieben werden. Starte die Camorracoin Brieftasche neu zum komplettieren.</translation>
+        <source>Wallet needed to be rewritten: restart AlessioCoin to complete</source>
+        <translation>Brieftasche muss neu geschrieben werden. Starte die AlessioCoin Brieftasche neu zum komplettieren.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3220,7 +3220,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Camorracoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. AlessioCoin is probably already running.</source>
         <translation>Fehler beim anbinden %s auf diesem Computer. BlaclCoin Client läuft wahrscheinlich bereits.</translation>
     </message>
     <message>

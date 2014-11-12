@@ -1,5 +1,5 @@
 #!/bin/bash
 # create multiresolution windows icon
-ICON_DST=../../src/qt/res/icons/camorracoin.ico
+ICON_DST=../../src/qt/res/icons/AlessioCoin.ico
 
-convert ../../src/qt/res/icons/camorracoin-16.png ../../src/qt/res/icons/camorracoin-32.png ../../src/qt/res/icons/camorracoin-48.png ${ICON_DST}
+convert ../../src/qt/res/icons/AlessioCoin-16.png ../../src/qt/res/icons/AlessioCoin-32.png ../../src/qt/res/icons/AlessioCoin-48.png ${ICON_DST}

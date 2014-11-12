@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Camorracoins");
-    case mBTC: return QString("Milli-Camorracoins (1 / 1,000)");
-    case uBTC: return QString("Micro-Camorracoins (1 / 1,000,000)");
+    case BTC: return QString("AlessioCoins");
+    case mBTC: return QString("Milli-AlessioCoins (1 / 1,000)");
+    case uBTC: return QString("Micro-AlessioCoins (1 / 1,000,000)");
     default: return QString("???");
     }
 }

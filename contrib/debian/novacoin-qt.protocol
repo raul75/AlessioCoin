@@ -1,6 +1,6 @@
 [Protocol]
-exec=camorracoin-qt '%u'
-protocol=camorracoin
+exec=AlessioCoin-qt '%u'
+protocol=AlessioCoin
 input=none
 output=none
 helper=true

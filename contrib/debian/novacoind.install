@@ -1,2 +1,2 @@
-debian/bin/camorracoind usr/bin
-src/camorracoind usr/lib/camorracoin
+debian/bin/AlessioCoind usr/bin
+src/AlessioCoind usr/lib/AlessioCoin

@@ -1,9 +1,9 @@
-Building Camorracoin
+Building AlessioCoin
 
-See doc/readme-qt.rst for instructions on building Camorracoin QT,
+See doc/readme-qt.rst for instructions on building AlessioCoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Camorracoin.
+implementation of AlessioCoin.
 
-See doc/build-*.txt for instructions on building camorracoind,
+See doc/build-*.txt for instructions on building AlessioCoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Camorracoin.
+implementation of AlessioCoin.

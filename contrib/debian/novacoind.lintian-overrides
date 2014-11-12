@@ -1,2 +1,2 @@
 # Linked code is Expat - only Debian packaging is GPL-2+
-camorracoind: possible-gpl-code-linked-with-openssl
+AlessioCoind: possible-gpl-code-linked-with-openssl

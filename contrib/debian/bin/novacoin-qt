@@ -4,13 +4,13 @@ set -e
 
 umask 077
 
-basedir=~/.camorracoin
+basedir=~/.AlessioCoin
 dbfile="$basedir/DB_CONFIG"
-cfgfile="$basedir/camorracoin.conf"
+cfgfile="$basedir/AlessioCoin.conf"
 
 [ -e "$basedir" ] || mkdir "$basedir"
 
-# Camorracoin does not clean up DB log files by default
+# AlessioCoin does not clean up DB log files by default
 [ -e "$dbfile" ] || echo 'set_flags DB_LOG_AUTOREMOVE' > "$dbfile"
 
-exec /usr/lib/camorracoin/camorracoin-qt "$@"
+exec /usr/lib/AlessioCoin/AlessioCoin-qt "$@"

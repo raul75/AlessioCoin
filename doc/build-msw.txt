@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building Camorracoin QT, the
+See readme-qt.rst for instructions on building AlessioCoin QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,9 +76,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-Camorracoin
+AlessioCoin
 -------
 DOS prompt:
-cd \camorracoin\src
+cd \AlessioCoin\src
 mingw32-make -f makefile.mingw
-strip camorracoind.exe
+strip AlessioCoind.exe

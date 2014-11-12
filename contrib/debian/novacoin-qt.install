@@ -1,5 +1,5 @@
-camorracoin-qt usr/bin
+AlessioCoin-qt usr/bin
 share/pixmaps/bitcoin32.xpm usr/share/pixmaps
 share/pixmaps/bitcoin80.xpm usr/share/pixmaps
-debian/camorracoin-qt.desktop usr/share/applications
-debian/camorracoin-qt.protocol usr/share/kde4/services/
+debian/AlessioCoin-qt.desktop usr/share/applications
+debian/AlessioCoin-qt.protocol usr/share/kde4/services/

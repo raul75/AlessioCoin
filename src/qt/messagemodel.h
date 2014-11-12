@@ -67,7 +67,7 @@ struct MessageTableEntry
     }
 };
 
-/** Interface to Camorracoin Secure Messaging from Qt view code. */
+/** Interface to AlessioCoin Secure Messaging from Qt view code. */
 class MessageModel : public QAbstractTableModel
 {
     Q_OBJECT

@@ -5,29 +5,29 @@
 #build/bitcoind::
 #	$(if $(filter nocheck,$(DEB_BUILD_OPTIONS)),,src/test_bitcoin)
 
-DEB_INSTALL_EXAMPLES_camorracoind += debian/examples/*
-DEB_INSTALL_MANPAGES_camorracoind += debian/manpages/*
+DEB_INSTALL_EXAMPLES_AlessioCoind += debian/examples/*
+DEB_INSTALL_MANPAGES_AlessioCoind += debian/manpages/*
 
 %:
 	dh --with bash-completion $@
 
 override_dh_auto_build:
-	cd src; $(MAKE) -f makefile.unix camorracoind
+	cd src; $(MAKE) -f makefile.unix AlessioCoind
 	$(MAKE)
 
 override_dh_auto_clean:
-	if [ -f Makefile ]; then $(MAKE) clean; else rm -rf build/; rm -f camorracoin-qt; fi
+	if [ -f Makefile ]; then $(MAKE) clean; else rm -rf build/; rm -f AlessioCoin-qt; fi
 	cd src; $(MAKE) -f makefile.unix clean
 
 override_dh_auto_configure:
-	qmake camorracoin-qt.pro USE_QRCODE=1
+	qmake AlessioCoin-qt.pro USE_QRCODE=1
 
 override_dh_auto_test:
-	cd src; $(MAKE) -f makefile.unix test_camorracoin
-	src/test_camorracoin
+	cd src; $(MAKE) -f makefile.unix test_AlessioCoin
+	src/test_AlessioCoin
 
 # Ensure wrapper is set executable
-binary-post-install/camorracoind:
-	chmod +x $(cdbs_curdestdir)usr/bin/camorracoind
-binary-post-install/camorracoin-qt:
-	chmod +x $(cdbs_curdestdir)usr/bin/camorracoin-qt
+binary-post-install/AlessioCoind:
+	chmod +x $(cdbs_curdestdir)usr/bin/AlessioCoind
+binary-post-install/AlessioCoin-qt:
+	chmod +x $(cdbs_curdestdir)usr/bin/AlessioCoin-qt

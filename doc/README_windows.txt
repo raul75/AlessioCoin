@@ -1,6 +1,6 @@
-Camorracoin
+AlessioCoin
 
-Copyright (c) 2014 Camorracoin Developers
+Copyright (c) 2014 AlessioCoin Developers
 Copyright (c) 2014 Shadowcoin Developers
 Copyright (c) 2014 BlackCoin Developers
 Copyright (c) 2013 NovaCoin Developers
@@ -14,7 +14,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-Camorracoin is a free open source project derived from Bitcoin, with
+AlessioCoin is a free open source project derived from Bitcoin, with
 the goal of providing a long-term energy-efficient scrypt-based crypto-currency.
 Built on the foundation of Bitcoin, PPCoin, NovaCoin and BlackCoin, innovations such as proof-of-stake
 help further advance the field of crypto-currency.

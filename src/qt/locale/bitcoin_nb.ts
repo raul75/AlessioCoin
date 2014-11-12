@@ -3,20 +3,20 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Camorracoin</source>
-        <translation>Om Camorracoin</translation>
+        <source>About AlessioCoin</source>
+        <translation>Om AlessioCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Camorracoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Camorracoin&lt;/b&gt; versjon</translation>
+        <source>&lt;b&gt;AlessioCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;AlessioCoin&lt;/b&gt; versjon</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The BlackCoin developers
-Copyright © 2014 The Camorracoin developers</source>
+Copyright © 2014 The AlessioCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -64,7 +64,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Camorracoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your AlessioCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Dette er adressene for å motta betalinger. Du ønsker kanskje å gi ulike adresser til hver avsender så du lettere kan holde øye med hvem som betaler deg.</translation>
     </message>
     <message>
@@ -79,8 +79,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Camorracoin address</source>
-        <translation>Signer en melding for å bevise din egen Camorracoin adresse.</translation>
+        <source>Sign a message to prove you own a AlessioCoin address</source>
+        <translation>Signer en melding for å bevise din egen AlessioCoin adresse.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -94,8 +94,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Camorracoin address</source>
-        <translation>Verifiser en melding får å forsikre deg om at den er signert med en spesifikk Camorracoin adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified AlessioCoin address</source>
+        <translation>Verifiser en melding får å forsikre deg om at den er signert med en spesifikk AlessioCoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -262,7 +262,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-58"/>
-        <source>Camorracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>AlessioCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -376,8 +376,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Camorracoin</source>
-        <translation>Vis info om Camorracoin</translation>
+        <source>Show information about AlessioCoin</source>
+        <translation>Vis info om AlessioCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -426,13 +426,13 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Camorracoin address</source>
-        <translation>Send coins til en Camorracoin adresse</translation>
+        <source>Send coins to a AlessioCoin address</source>
+        <translation>Send coins til en AlessioCoin adresse</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Camorracoin</source>
-        <translation>Endre innstillingene til Camorracoin</translation>
+        <source>Modify configuration options for AlessioCoin</source>
+        <translation>Endre innstillingene til AlessioCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -471,8 +471,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-200"/>
-        <source>Camorracoin</source>
-        <translation>Camorracoin</translation>
+        <source>AlessioCoin</source>
+        <translation>AlessioCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -481,8 +481,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Camorracoin</source>
-        <translation>&amp;Om Camorracoin</translation>
+        <source>&amp;About AlessioCoin</source>
+        <translation>&amp;Om AlessioCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -538,13 +538,13 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Camorracoin client</source>
-        <translation>Camorracoin klient</translation>
+        <source>AlessioCoin client</source>
+        <translation>AlessioCoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Camorracoin network</source>
-        <translation><numerusform>%n aktiv tilkobling til Camorracoin nettverket</numerusform><numerusform>%n aktive tilkoblinger til Camorracoin nettverket</numerusform></translation>
+        <source>%n active connection(s) to AlessioCoin network</source>
+        <translation><numerusform>%n aktiv tilkobling til AlessioCoin nettverket</numerusform><numerusform>%n aktive tilkoblinger til AlessioCoin nettverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,7 +658,7 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Camorracoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid AlessioCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -718,7 +718,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Camorracoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. AlessioCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1040,8 +1040,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Camorracoin address.</source>
-        <translation>Den angitte adressen &quot;%1&quot; er ikke en gyldig Camorracoin adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid AlessioCoin address.</source>
+        <translation>Den angitte adressen &quot;%1&quot; er ikke en gyldig AlessioCoin adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1059,8 +1059,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Camorracoin-Qt</source>
-        <translation>Camorracoin-Qt</translation>
+        <source>AlessioCoin-Qt</source>
+        <translation>AlessioCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1132,13 +1132,13 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Camorracoin after logging in to the system.</source>
+        <source>Automatically start AlessioCoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Camorracoin on system login</source>
-        <translation>&amp;Start Camorracoin ved innlogging</translation>
+        <source>&amp;Start AlessioCoin on system login</source>
+        <translation>&amp;Start AlessioCoin ved innlogging</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1157,7 +1157,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Camorracoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the AlessioCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1167,7 +1167,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Camorracoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the AlessioCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1242,7 +1242,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Camorracoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting AlessioCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1257,7 +1257,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Camorracoin addresses in the transaction list or not.</source>
+        <source>Whether to show AlessioCoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1304,7 +1304,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Camorracoin.</source>
+        <source>This setting will take effect after restarting AlessioCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1323,7 +1323,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Camorracoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AlessioCoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1539,7 +1539,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Camorracoin-Qt help message to get a list with possible Camorracoin command-line options.</source>
+        <source>Show the AlessioCoin-Qt help message to get a list with possible AlessioCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1559,12 +1559,12 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Camorracoin - Debug window</source>
+        <source>AlessioCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Camorracoin Core</source>
+        <source>AlessioCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1574,7 +1574,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Camorracoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the AlessioCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1584,7 +1584,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Camorracoin RPC console.</source>
+        <source>Welcome to the AlessioCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1743,7 +1743,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Camorracoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
+        <source>Enter a AlessioCoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1843,8 +1843,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Camorracoin address</source>
-        <translation>ADVARSEL: Ugyldig Camorracoin adresse</translation>
+        <source>WARNING: Invalid AlessioCoin address</source>
+        <translation>ADVARSEL: Ugyldig AlessioCoin adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1917,7 +1917,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Camorracoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
+        <source>Enter a AlessioCoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1978,7 +1978,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Camorracoin address</source>
+        <source>Sign the message to prove you own this AlessioCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2010,7 +2010,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Camorracoin address</source>
+        <source>Verify the message to ensure it was signed with the specified AlessioCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2021,7 +2021,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Camorracoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
+        <source>Enter a AlessioCoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2031,7 +2031,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Camorracoin signature</source>
+        <source>Enter AlessioCoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2602,8 +2602,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Camorracoin version</source>
-        <translation>Camorracoin versjon</translation>
+        <source>AlessioCoin version</source>
+        <translation>AlessioCoin versjon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2612,7 +2612,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or camorracoind</source>
+        <source>Send command to -server or AlessioCoind</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2632,12 +2632,12 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: camorracoin.conf)</source>
+        <source>Specify configuration file (default: AlessioCoin.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: camorracoind.pid)</source>
+        <source>Specify pid file (default: AlessioCoind.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2787,7 +2787,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Camorracoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AlessioCoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2976,13 +2976,13 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=camorracoinrpc
+rpcuser=AlessioCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;AlessioCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3108,13 +3108,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Camorracoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  AlessioCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>Camorracoin</source>
-        <translation>Camorracoin</translation>
+        <source>AlessioCoin</source>
+        <translation>AlessioCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3148,12 +3148,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Camorracoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of AlessioCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Camorracoin to complete</source>
+        <source>Wallet needed to be rewritten: restart AlessioCoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3223,7 +3223,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Camorracoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. AlessioCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

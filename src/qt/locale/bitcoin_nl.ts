@@ -3,23 +3,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Camorracoin</source>
-        <translation>Over Camorracoin</translation>
+        <source>About AlessioCoin</source>
+        <translation>Over AlessioCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Camorracoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Camorracoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;AlessioCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;AlessioCoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The BlackCoin developers
-Copyright © 2014 The Camorracoin developers</source>
+Copyright © 2014 The AlessioCoin developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De Camorracoin ontwikkelaars</translation>
+Copyright © 2014 De AlessioCoin ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Camorracoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou Camorracoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your AlessioCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou AlessioCoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Camorracoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een Camorracoin adres bezit.</translation>
+        <source>Sign a message to prove you own a AlessioCoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een AlessioCoin adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Camorracoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Camorracoin adres</translation>
+        <source>Verify a message to ensure it was signed with a specified AlessioCoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek AlessioCoin adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>Camorracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Camorracoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>AlessioCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>AlessioCoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -378,8 +378,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Camorracoin</source>
-        <translation>Toon informatie over Camorracoin</translation>
+        <source>Show information about AlessioCoin</source>
+        <translation>Toon informatie over AlessioCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Camorracoin address</source>
-        <translation>Verstuur munten naar een Camorracoin adres</translation>
+        <source>Send coins to a AlessioCoin address</source>
+        <translation>Verstuur munten naar een AlessioCoin adres</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Camorracoin</source>
-        <translation>Verander configuratie opties voor Camorracoin</translation>
+        <source>Modify configuration options for AlessioCoin</source>
+        <translation>Verander configuratie opties voor AlessioCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-200"/>
-        <source>Camorracoin</source>
-        <translation>Camorracoin</translation>
+        <source>AlessioCoin</source>
+        <translation>AlessioCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Camorracoin</source>
-        <translation>&amp;Over Camorracoin</translation>
+        <source>&amp;About AlessioCoin</source>
+        <translation>&amp;Over AlessioCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Camorracoin client</source>
-        <translation>Camorracoin client</translation>
+        <source>AlessioCoin client</source>
+        <translation>AlessioCoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Camorracoin network</source>
-        <translation><numerusform>%n actieve verbinding naar Camorracoin netwerk</numerusform><numerusform>%n actieve verbindingen naar Camorracoin netwerk</numerusform></translation>
+        <source>%n active connection(s) to AlessioCoin network</source>
+        <translation><numerusform>%n actieve verbinding naar AlessioCoin netwerk</numerusform><numerusform>%n actieve verbindingen naar AlessioCoin netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -660,8 +660,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Camorracoin address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig Camorracoin adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid AlessioCoin address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig AlessioCoin adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Camorracoin can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout . Camorracoin kan niet langer veilig doorgaan en sluit af.</translation>
+        <source>A fatal error occurred. AlessioCoin can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout . AlessioCoin kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
 <context>
@@ -1054,8 +1054,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Camorracoin address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig Camorracoin adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid AlessioCoin address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig AlessioCoin adres.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Camorracoin-Qt</source>
-        <translation>Camorracoin-Qt</translation>
+        <source>AlessioCoin-Qt</source>
+        <translation>AlessioCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Camorracoin after logging in to the system.</source>
-        <translation>Automatisch starten van Camorracoin na inloggen van het systeem.</translation>
+        <source>Automatically start AlessioCoin after logging in to the system.</source>
+        <translation>Automatisch starten van AlessioCoin na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Camorracoin on system login</source>
-        <translation>&amp;Start Camorracoin bij systeem aanmelding</translation>
+        <source>&amp;Start AlessioCoin on system login</source>
+        <translation>&amp;Start AlessioCoin bij systeem aanmelding</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Camorracoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De Camorracoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the AlessioCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De AlessioCoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Camorracoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het Camorracoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the AlessioCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het AlessioCoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Camorracoin.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na Camorracoin opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AlessioCoin.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na AlessioCoin opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Camorracoin addresses in the transaction list or not.</source>
-        <translation>Camorracoin adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show AlessioCoin addresses in the transaction list or not.</source>
+        <translation>AlessioCoin adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Camorracoin.</source>
-        <translation>Deze instelling word toegepast na een restart van Camorracoin.</translation>
+        <source>This setting will take effect after restarting AlessioCoin.</source>
+        <translation>Deze instelling word toegepast na een restart van AlessioCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Camorracoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het Camorracoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AlessioCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het AlessioCoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Camorracoin-Qt help message to get a list with possible Camorracoin command-line options.</source>
-        <translation>Laat het Camorracoin-QT help bericht zien om een lijst te krijgen met mogelijke Camorracoin command-regel opties.</translation>
+        <source>Show the AlessioCoin-Qt help message to get a list with possible AlessioCoin command-line options.</source>
+        <translation>Laat het AlessioCoin-QT help bericht zien om een lijst te krijgen met mogelijke AlessioCoin command-regel opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Camorracoin - Debug window</source>
-        <translation>Camorracoin - Debugscherm</translation>
+        <source>AlessioCoin - Debug window</source>
+        <translation>AlessioCoin - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Camorracoin Core</source>
-        <translation>Camorracoin Kern</translation>
+        <source>AlessioCoin Core</source>
+        <translation>AlessioCoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Camorracoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Camorracoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the AlessioCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het AlessioCoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Camorracoin RPC console.</source>
-        <translation>Welkom bij de Camorracoin RPC console.</translation>
+        <source>Welcome to the AlessioCoin RPC console.</source>
+        <translation>Welkom bij de AlessioCoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Camorracoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
-        <translation>Voeg een Camorracoin adres in (bijv. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</translation>
+        <source>Enter a AlessioCoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
+        <translation>Voeg een AlessioCoin adres in (bijv. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Camorracoin address</source>
-        <translation>WAARSCHUWING: Ongeldig Camorracoin adres</translation>
+        <source>WARNING: Invalid AlessioCoin address</source>
+        <translation>WAARSCHUWING: Ongeldig AlessioCoin adres</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1931,8 +1931,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Camorracoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
-        <translation>Voeg een Camorracoin adres in (bijv. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</translation>
+        <source>Enter a AlessioCoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
+        <translation>Voeg een AlessioCoin adres in (bijv. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Camorracoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een Camorracoin adres bezit.</translation>
+        <source>Sign the message to prove you own this AlessioCoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een AlessioCoin adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Camorracoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Camorracoin adres</translation>
+        <source>Verify the message to ensure it was signed with the specified AlessioCoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek AlessioCoin adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Camorracoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
-        <translation>Voeg een Camorracoin adres in (bijv. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</translation>
+        <source>Enter a AlessioCoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
+        <translation>Voeg een AlessioCoin adres in (bijv. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Camorracoin signature</source>
-        <translation>Voer Camorracoin handtekening in</translation>
+        <source>Enter AlessioCoin signature</source>
+        <translation>Voer AlessioCoin handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Camorracoin version</source>
-        <translation>Camorracoin versie</translation>
+        <source>AlessioCoin version</source>
+        <translation>AlessioCoin versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or camorracoind</source>
-        <translation>Verstuur commando naar -server of camorracoind</translation>
+        <source>Send command to -server or AlessioCoind</source>
+        <translation>Verstuur commando naar -server of AlessioCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: camorracoin.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: camorracoin.conf)</translation>
+        <source>Specify configuration file (default: AlessioCoin.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: AlessioCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: camorracoind.pid)</source>
-        <translation>Selecteer pid bestand (standaard: camorracoin.conf)</translation>
+        <source>Specify pid file (default: AlessioCoind.pid)</source>
+        <translation>Selecteer pid bestand (standaard: AlessioCoin.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,8 +2801,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Camorracoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is Camorracoin zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AlessioCoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is AlessioCoin zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=camorracoinrpc
+rpcuser=AlessioCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;AlessioCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
 Het wordt aanbevolen de volgende willekeurig wachtwoord gebruiken: 
-rpcuser = camorracoinrpc 
+rpcuser = AlessioCoinrpc 
 rpcpassword = %s 
 (je hoeft niet dit wachtwoord te onthouden) 
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;AlessioCoin Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3132,13 +3132,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Camorracoin Alert&quot; adm
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Camorracoin is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. Camorracoin wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  AlessioCoin is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. AlessioCoin wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Camorracoin</source>
-        <translation>Camorracoin</translation>
+        <source>AlessioCoin</source>
+        <translation>AlessioCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3172,13 +3172,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Camorracoin Alert&quot; adm
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Camorracoin</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van Camorracoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AlessioCoin</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van AlessioCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Camorracoin to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart Camorracoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart AlessioCoin to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart AlessioCoin om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3247,8 +3247,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Camorracoin Alert&quot; adm
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Camorracoin is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. Camorracoin is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. AlessioCoin is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. AlessioCoin is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>

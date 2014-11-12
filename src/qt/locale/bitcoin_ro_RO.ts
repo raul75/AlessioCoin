@@ -3,24 +3,24 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Camorracoin</source>
-        <translation>Despre Camorracoin</translation>
+        <source>About AlessioCoin</source>
+        <translation>Despre AlessioCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Camorracoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;Camorracoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;AlessioCoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;AlessioCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The BlackCoin developers
-Copyright © 2014 The Camorracoin developers</source>
+Copyright © 2014 The AlessioCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The BlackCoin developers
-Copyright © 2014 The Camorracoin developers</translation>
+Copyright © 2014 The AlessioCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -67,8 +67,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Camorracoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele Camorracoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your AlessioCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele AlessioCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -82,8 +82,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Camorracoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Camorracoin</translation>
+        <source>Sign a message to prove you own a AlessioCoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă AlessioCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -97,8 +97,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Camorracoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Camorracoin</translation>
+        <source>Verify a message to ensure it was signed with a specified AlessioCoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă AlessioCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -265,8 +265,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>Camorracoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Camorracoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>AlessioCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>AlessioCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -379,8 +379,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Camorracoin</source>
-        <translation>Arată informații despre Camorracoin</translation>
+        <source>Show information about AlessioCoin</source>
+        <translation>Arată informații despre AlessioCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -429,13 +429,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Camorracoin address</source>
-        <translation>Trimite monede către o adresă Camorracoin</translation>
+        <source>Send coins to a AlessioCoin address</source>
+        <translation>Trimite monede către o adresă AlessioCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Camorracoin</source>
-        <translation>Modifică opțiuni de configurare pentru Camorracoin</translation>
+        <source>Modify configuration options for AlessioCoin</source>
+        <translation>Modifică opțiuni de configurare pentru AlessioCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -474,8 +474,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-200"/>
-        <source>Camorracoin</source>
-        <translation>Camorracoin</translation>
+        <source>AlessioCoin</source>
+        <translation>AlessioCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -484,8 +484,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Camorracoin</source>
-        <translation>Despre Camorracoin</translation>
+        <source>&amp;About AlessioCoin</source>
+        <translation>Despre AlessioCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -541,13 +541,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Camorracoin client</source>
-        <translation>Clientul Camorracoin</translation>
+        <source>AlessioCoin client</source>
+        <translation>Clientul AlessioCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Camorracoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua Camorracoin</numerusform><numerusform>%n conexiuni active la reteaua Camorracoin</numerusform><numerusform>%n conexiuni active la reteaua Camorracoin</numerusform></translation>
+        <source>%n active connection(s) to AlessioCoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua AlessioCoin</numerusform><numerusform>%n conexiuni active la reteaua AlessioCoin</numerusform><numerusform>%n conexiuni active la reteaua AlessioCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -661,8 +661,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Camorracoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Camorracoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid AlessioCoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa AlessioCoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -721,8 +721,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Camorracoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. Camorracoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. AlessioCoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. AlessioCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1055,8 +1055,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Camorracoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Camorracoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid AlessioCoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă AlessioCoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1074,8 +1074,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Camorracoin-Qt</source>
-        <translation>Camorracoin-Qt</translation>
+        <source>AlessioCoin-Qt</source>
+        <translation>AlessioCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1147,13 +1147,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Camorracoin after logging in to the system.</source>
-        <translation>Pornește Camorracoin imdiat după logarea în sistem</translation>
+        <source>Automatically start AlessioCoin after logging in to the system.</source>
+        <translation>Pornește AlessioCoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Camorracoin on system login</source>
-        <translation>$Pornește Camorracoin la logarea în sistem</translation>
+        <source>&amp;Start AlessioCoin on system login</source>
+        <translation>$Pornește AlessioCoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1172,8 +1172,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Camorracoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul Camorracoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the AlessioCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul AlessioCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1182,8 +1182,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Camorracoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua Camorracoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the AlessioCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua AlessioCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1257,8 +1257,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Camorracoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Camorracoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AlessioCoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea AlessioCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1272,8 +1272,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Camorracoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese Camorracoin din lista de tranzacție sau nu.</translation>
+        <source>Whether to show AlessioCoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese AlessioCoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1319,8 +1319,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Camorracoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea Camorracoin.</translation>
+        <source>This setting will take effect after restarting AlessioCoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea AlessioCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1338,8 +1338,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Camorracoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Camorracoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AlessioCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua AlessioCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1554,8 +1554,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Camorracoin-Qt help message to get a list with possible Camorracoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor Camorracoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Camorracoin.</translation>
+        <source>Show the AlessioCoin-Qt help message to get a list with possible AlessioCoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor AlessioCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă AlessioCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1574,13 +1574,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Camorracoin - Debug window</source>
-        <translation>Camorracoin - fereastră depanare</translation>
+        <source>AlessioCoin - Debug window</source>
+        <translation>AlessioCoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Camorracoin Core</source>
-        <translation>Camorracoin Core</translation>
+        <source>AlessioCoin Core</source>
+        <translation>AlessioCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1589,8 +1589,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Camorracoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare Camorracoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the AlessioCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare AlessioCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1599,8 +1599,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Camorracoin RPC console.</source>
-        <translation>Bine ati venit la consola Camorracoin RPC.</translation>
+        <source>Welcome to the AlessioCoin RPC console.</source>
+        <translation>Bine ati venit la consola AlessioCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1758,8 +1758,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Camorracoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
-        <translation>Introduceți o adresă Camorracoin(ex:SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</translation>
+        <source>Enter a AlessioCoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
+        <translation>Introduceți o adresă AlessioCoin(ex:SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1858,8 +1858,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Camorracoin address</source>
-        <translation>Atenție: Adresă Camorracoin invalidă</translation>
+        <source>WARNING: Invalid AlessioCoin address</source>
+        <translation>Atenție: Adresă AlessioCoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1932,8 +1932,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Camorracoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
-        <translation>Introduceți o adresă Camorracoin(ex:SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</translation>
+        <source>Enter a AlessioCoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
+        <translation>Introduceți o adresă AlessioCoin(ex:SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</translation>
     </message>
 </context>
 <context>
@@ -1993,8 +1993,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Camorracoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Camorracoin</translation>
+        <source>Sign the message to prove you own this AlessioCoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă AlessioCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Camorracoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Camorracoin</translation>
+        <source>Verify the message to ensure it was signed with the specified AlessioCoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă AlessioCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2036,8 +2036,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Camorracoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
-        <translation>Introduceți o adresă Camorracoin(ex:SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</translation>
+        <source>Enter a AlessioCoin address (e.g. SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</source>
+        <translation>Introduceți o adresă AlessioCoin(ex:SXywGBZBowrppUwwNUo1GCRDTibzJi7g2M)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2046,8 +2046,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Camorracoin signature</source>
-        <translation>Introduceti semnatura Camorracoin</translation>
+        <source>Enter AlessioCoin signature</source>
+        <translation>Introduceti semnatura AlessioCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2617,8 +2617,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Camorracoin version</source>
-        <translation>Versiune Camorracoin</translation>
+        <source>AlessioCoin version</source>
+        <translation>Versiune AlessioCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2627,8 +2627,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or camorracoind</source>
-        <translation>Trimite comanda catre server sau camorracoind</translation>
+        <source>Send command to -server or AlessioCoind</source>
+        <translation>Trimite comanda catre server sau AlessioCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2647,13 +2647,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: camorracoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: camorracoin.conf)</translation>
+        <source>Specify configuration file (default: AlessioCoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: AlessioCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: camorracoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: camorracoind.pid)</translation>
+        <source>Specify pid file (default: AlessioCoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: AlessioCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2802,8 +2802,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Camorracoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Camorracoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AlessioCoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit AlessioCoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2992,22 +2992,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=camorracoinrpc
+rpcuser=AlessioCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;AlessioCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=camorracoinrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=AlessioCoinrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;AlessioCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3132,13 +3132,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Camorracoin is probably already running.</source>
-        <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Camorracoin probabil ruleaza deja.</translation>
+        <source>Cannot obtain a lock on data directory %s.  AlessioCoin is probably already running.</source>
+        <translation>Nu se poate obtine un lock pe directorul de date &amp;s. AlessioCoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Camorracoin</source>
-        <translation>Camorracoin</translation>
+        <source>AlessioCoin</source>
+        <translation>AlessioCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3172,13 +3172,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Camorracoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Camorracoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AlessioCoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de AlessioCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Camorracoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați Camorracoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart AlessioCoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați AlessioCoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3247,8 +3247,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Camorracoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Camorracoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Camorracoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. AlessioCoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil AlessioCoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>
